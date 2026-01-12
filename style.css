@@ -1,0 +1,23 @@
+.banner{
+    width: 100%;
+    max-width: 100%;
+}
+.banner img{
+    width: 100;
+    height: 100;
+    display: 100;
+}
+
+.navbar{
+    background-color: rgb(226, 181, 181);
+    padding: 12px;
+    display: flex;
+    gap: 20px;
+}
+.navbar a {
+   color: rgb(187, 90, 90);
+   text-decoration: none;
+}
+.navbar a:hover {
+    color: azure;
+}
